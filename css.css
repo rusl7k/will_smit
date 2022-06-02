@@ -1,0 +1,96 @@
+/* * присовює всім елементам певні папаметри зараз відступи зовнішні і внутрішні*/
+/** {*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*}*/
+body {
+    align-items: center;
+    background-color: lavender;
+}
+
+h1 {
+    color: blue;
+    background-color: yellow;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+p {
+    text-align: justify;
+    color: #27272D;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+h2 {
+    text-align: center;
+    color: darkgreen;
+    font-size: 25px;
+    background-color: #b3d4fc;
+}
+
+
+.start1 {
+    display: inline-block;
+}
+
+.start2 {
+    display: inline-block;
+}
+
+.start3 {
+    display: inline-block;
+}
+
+.start4 {
+    display: inline-block;
+}
+
+.start5 {
+    display: inline-block;
+}
+
+
+.link {
+    font-size: 19px;
+    color: red;
+}
+
+img {
+    height: 500px;
+    width: 500px;
+    border-radius: 5%;
+    display: block;
+    margin: 0 auto;
+}
+
+h3 {
+    color: darkorange;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+h4 {
+    text-align: center;
+    font-size: 45px;
+    color: #0E8A04;
+    background-color: #E8ED08;
+    font-weight: lighter;
+}
+
+li {
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.top {
+    color: blue;
+    font-size: 60px;
+    background-color: darkorange;
+    border-radius: 15%;
+    text-align: center;
+    padding: 20px;
+}
